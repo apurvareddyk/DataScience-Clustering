@@ -59,7 +59,7 @@ This notebook focuses on anomaly detection techniques. It includes time series a
 This notebook deals with clustering time series data. It covers techniques specific to time series, such as Dynamic Time Warping (DTW) for measuring similarity between temporal sequences.
 
 ### 7. Document Clustering
-This notebook demonstrates clustering of text documents. It includes steps for text preprocessing, feature extraction (e.g., TF-IDF), and applying clustering algorithms to group similar documents.
+This notebook demonstrates the clustering of text documents. It includes steps for text preprocessing, feature extraction (e.g., TF-IDF), and applying clustering algorithms to group similar documents.
 
 ### 8. Image Clustering
 This notebook shows how to cluster images. It covers image preprocessing, feature extraction (possibly using pre-trained neural networks), and applying clustering algorithms to group similar images.
@@ -67,13 +67,7 @@ This notebook shows how to cluster images. It covers image preprocessing, featur
 ### 9. Audio Extraction and Clustering
 This notebook focuses on clustering audio data. It includes steps for audio feature extraction (e.g., MFCCs, spectrograms) and then applying clustering algorithms to group similar audio samples.
 
-## Contributing
-
-Contributions to improve the implementations or add new clustering algorithms are welcome. Please submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Video [link](https://www.youtube.com/playlist?list=PLGHkLcp2I_S9KcOab53lTCSvnrZUpobVf)
 
 ## Acknowledgments
 
